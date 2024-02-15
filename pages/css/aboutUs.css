@@ -107,7 +107,6 @@ header .navbar a{
 
 .contenedor {
   /* align-items: center; */
-  background-color: #f2f2f2;
   display: flex;
   font-family: "Merriweather", serif;
   flex-wrap: wrap;
